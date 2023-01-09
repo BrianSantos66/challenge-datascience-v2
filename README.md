@@ -4,7 +4,7 @@ A imobiliária InsightPlaces, situada na cidade do Rio de Janeiro, está enfrent
 
 O projeto foi dividido nas seguintes etapas:
 
-- Primeira semana: leitura e tratamento do histórico dos preços de imóveis no Rio de Janeiro.
+- Primeira semana: Leitura e tratamento do histórico dos preços de imóveis no Rio de Janeiro.
 - Segunda semana: Construção de um modelo de regressão para precificar imóveis.
 - Terceira semana: Construção de um modelo de clustering recomendador de imóveis.
 
